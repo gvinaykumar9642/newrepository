@@ -6,6 +6,8 @@ public class project1 {
 		
 		System.out.println("my first commit");
 		System.out.println("second message");
+		System.out.println("Third message");
+
 	}
 
 }
